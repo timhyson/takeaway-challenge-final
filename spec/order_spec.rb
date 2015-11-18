@@ -16,6 +16,7 @@ describe Order do
     allow(menu).to receive(:has_dish?).with(:chicken).and_return(true)
     allow(menu).to receive(:has_dish?).with(:fish).and_return(true)
   end
+
   it 'selects several dishes from the menu' do
     order.add(:chicken, 2)
     order.add(:fish, 1)
