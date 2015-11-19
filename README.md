@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/timhyson/takeaway-challenge-final/badge.svg?branch=master&service=github)](https://coveralls.io/github/timhyson/takeaway-challenge-final?branch=master)
+
 Takeaway Challenge
 ==================
 
